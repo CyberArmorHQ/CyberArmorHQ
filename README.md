@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CyberArmorHQ
+- 👋 Hi, I’m Stanley
 - 👀 I’m a Cybersecurity & GRC Enthusiast | ISC2 CC | Aspiring GRC Analyst”)
 - 🌱 I’m currently learning how to defend and protect Network Security
 - 💞️ I’m looking to collaborate with you and ensure your Company's Network is safe
