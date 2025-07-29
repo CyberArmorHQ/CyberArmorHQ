@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CyberArmorHQ
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Cyber Security GRC
 - 🌱 I’m currently learning how to defend and protect Network Security
-- 💞️ I’m looking to collaborate with you and ensure your Compnys Network is safe
+- 💞️ I’m looking to collaborate with you and ensure your Company's Network is safe
 - 📫 How to reach me nzubekanu20@gmail.co,/+16478795026
 - 😄 Pronouns: He/Him
 
