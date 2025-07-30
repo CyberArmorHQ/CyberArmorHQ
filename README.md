@@ -59,6 +59,7 @@ To showcase practical GRC and cybersecurity projects that demonstrate my skills 
 
 ## Projects
 - Risk Register
+- Compliance Checklists
 - Security risk assessment report
 - Vulnerability Assessment report
   
