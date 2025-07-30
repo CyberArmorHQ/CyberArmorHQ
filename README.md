@@ -2,7 +2,7 @@
 - 👀 I’m a Cybersecurity & GRC Enthusiast | ISC2 CC | Aspiring GRC Analyst”)
 - 🌱 I’m currently learning how to defend and protect Network Security
 - 💞️ I’m looking to collaborate with you and ensure your Company's Network is safe
-- 📫 How to reach me nzubekanu20@gmail.co,/+16478795026
+- 📫 How to reach me nzubekanu20@gmail.com,/+16478795026
 - 😄 Pronouns: He/Him
 
 <!---
