@@ -15,7 +15,7 @@ To showcase practical GRC and cybersecurity projects that demonstrate my skills 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Internal Audit Preparation         | <a href="https://google.com">Risk Registry Lab</a>|
+| Internal Audit Preparation         | <a href=https://github.com/CyberArmorHQ/Risk-Registry/tree/main>Risk Registry Lab</a>|
 | Compliance Checklists (GDPR, HIPAA, PCI DSS) | <a href="https://google.com">Detection Lab</a>|
 | Security Policy Writing (AUP, Password Policy, etc.)      | Security Policy Lab|
 | NIST Cybersecurity Framework (NIST CSF)     | Security Policy Lab|
@@ -58,7 +58,7 @@ To showcase practical GRC and cybersecurity projects that demonstrate my skills 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 ## Projects
-- Risk Register
+- <a href=https://github.com/CyberArmorHQ/Risk-Registry/tree/main>Risk Registry Lab</a>
 - Compliance Checklists
 - Security risk assessment report
 - Vulnerability Assessment report
