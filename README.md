@@ -15,7 +15,7 @@ To showcase practical GRC and cybersecurity projects that demonstrate my skills 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Internal Audit Preparation         | <a href="https://google.com">Detection Lab</a>|
+| Internal Audit Preparation         | <a href="https://google.com">Risk Registry Lab</a>|
 | Compliance Checklists (GDPR, HIPAA, PCI DSS) | <a href="https://google.com">Detection Lab</a>|
 | Security Policy Writing (AUP, Password Policy, etc.)      | Security Policy Lab|
 | NIST Cybersecurity Framework (NIST CSF)     | Security Policy Lab|
