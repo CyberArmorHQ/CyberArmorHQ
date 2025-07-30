@@ -15,9 +15,9 @@ To showcase practical GRC and cybersecurity projects that demonstrate my skills 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Internal Audit Preparation         | <a href=https://github.com/CyberArmorHQ/Risk-Registry/tree/main>Risk Registry Lab</a>|
-| Compliance Checklists (GDPR, HIPAA, PCI DSS) | <a href="https://google.com">Detection Lab</a>|
-| Security Policy Writing (AUP, Password Policy, etc.)      | Security Policy Lab|
+| Risk Management | <a href=https://github.com/CyberArmorHQ/Risk-Registry/tree/main>Risk Registry Lab</a>|
+| Compliance Checklists (GDPR, HIPAA, PCI DSS) | <a href="https://google.com">Security incident report lab </a>|
+| Security Policy Writing (AUP, Password Policy, etc.)      | Vulnerability assessment Lab|
 | NIST Cybersecurity Framework (NIST CSF)     | Security Policy Lab|
 | Governance Documentation              | Security Policy Lab|
 | Business Impact Analysis (BIA) | Security Policy Lab|
